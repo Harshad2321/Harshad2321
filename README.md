@@ -1,11 +1,11 @@
 # 💫About Me :
-🔭 I’m currently working on AI-ML projects, web development, and cybersecurity
-🌐 I have hands-on experience building web apps using HTML, CSS, JavaScript, Node.js, and MongoDB
-🤝 I’m looking to collaborate on open-source AI/ML and full-stack web development projects, as well as participate in hackathons
-💛 I’m looking for help with deep learning, cloud security, and frontend UI/UX best practices
-🌱 I’m currently learning C programming and advanced Python for AI-ML, and exploring React and APIs for dynamic websites
-💬 Ask me about Python, AI-ML, web development, or even productivity hacks
-⚡ Fun fact: I enjoy debugging more than coding—it feels like solving puzzles!
+🔭 I’m currently working on AI-ML projects, web development, and cybersecurity<br/>
+🌐 I have hands-on experience building web apps using HTML, CSS, JavaScript, Node.js, and MongoDB<br/>
+🤝 I’m looking to collaborate on open-source AI/ML, as well as participate in hackathons<br/>
+💛 I’m looking for help with deep learning, cloud security, and frontend UI/UX best practices<br/>
+🌱 I’m currently learning C programming and advanced Python for AI-ML, and exploring React and APIs for dynamic websites<br/>
+💬 Ask me about Python, AI-ML, web development, or even productivity hacks<br/>
+⚡ Fun fact: I enjoy debugging more than coding—it feels like solving puzzles!<br/>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshad_agrawal_2005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshad-agrawal-486964322) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshad.agrawal2005@gmail.com)
