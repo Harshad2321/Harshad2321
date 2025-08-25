@@ -1,4 +1,4 @@
-![Header](./assets/header.png)
+![Header](.harshad_bannerpng)
 
 
 # 💫About Me :
