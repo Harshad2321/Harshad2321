@@ -1,4 +1,7 @@
-![Header](.harshad_bannerpng)
+<div align="center">
+  <img src="./harshad_banner.png" alt="Harshad Agrawal Banner" />
+</div>
+
 
 
 # 💫About Me :
