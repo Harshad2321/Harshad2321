@@ -2,7 +2,6 @@
 🔭 I’m currently working on AI-ML projects, web development, and cybersecurity<br/>
 🌐 I have hands-on experience building web apps using HTML, CSS, JavaScript, Node.js, and MongoDB<br/>
 🤝 I’m looking to collaborate on open-source AI/ML, as well as participate in hackathons<br/>
-💛 I’m looking for help with deep learning, cloud security, and frontend UI/UX best practices<br/>
 🌱 I’m currently learning C programming and advanced Python for AI-ML, and exploring React and APIs for dynamic websites<br/>
 💬 Ask me about Python, AI-ML, web development, or even productivity hacks<br/>
 ⚡ Fun fact: I enjoy debugging more than coding—it feels like solving puzzles!<br/>
