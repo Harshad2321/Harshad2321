@@ -16,7 +16,7 @@
 <div align="left">
   <!-- Portfolio -->
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+    <img src="https://harshad2321.github.io/Myself/" alt="portfolio" />
   </a>
   
   <!-- LinkedIn -->
