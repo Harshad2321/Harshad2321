@@ -15,8 +15,8 @@
 ## 🌐Socials
 <div align="left">
   <!-- Portfolio -->
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://harshad2321.github.io/Myself/" alt="portfolio" />
+  <a href="https://harshad2321.github.io/Myself/" target="_blank">
+    <img src="https://imgs.search.brave.com/OjL5YJljAwIs-anmJLZzB4dFGdA1cSSowxEH4WnCM-Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8xNTU4NC8xNTU4/NDc0MC5wbmc_c2Vt/dD1haXNfaHlicmlk" width="52" height="40" alt="portfolio" />
   </a>
   
   <!-- LinkedIn -->
